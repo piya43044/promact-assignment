@@ -1,0 +1,9 @@
+File Copier, 
+
+Description of approach:
+1.Take file name as an input from the user.
+2.Create objecs of File class of Input file and output file.
+3.Now check the file whether this file is already exist in the given path or not  3.a.If yes than check the copyfile is exist or not.
+    3.a.(i) If yes than it add - Copy at end of the file then check if this file is exist then it show the file with - Copy count and if it does not exist than it show only file name with - Copy and copy the file.
+  3.b. If no than it add - Copy at the end of the file name and copy the file.
+4. If no than it shows file doesn't exists..
